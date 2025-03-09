@@ -1,0 +1,27 @@
+Privacy Policy for Ligabot.id
+Last Updated: [Date]
+
+1. Introduction
+Welcome to Ligabot.id! This privacy policy explains how Ligabot.id handles data while you use it. Since this bot is for personal use only, it does not collect, store, or share any personal information.
+
+2. Data Collection and Usage
+Ligabot.id operates in real-time and does not store user data. However, it may process the following temporarily:
+
+Messages or commands sent to the bot (for functionality purposes).
+User IDs, server IDs, and channel IDs (to respond appropriately).
+Once the bot processes a command, the data is not stored or logged.
+
+3. Third-Party Services
+Ligabot.id does not share data with third-party services. It only interacts within the Discord platform and follows Discord’s API policies.
+
+4. Security
+Ligabot.id does not retain any user data, ensuring no long-term storage risks. However, you should use the bot responsibly and avoid sharing sensitive information through it.
+
+5. User Rights
+Since no personal data is collected or stored, there are no user data rights to access, modify, or delete information related to Ligabot.id.
+
+6. Changes to This Policy
+I may update this Privacy Policy if needed. Any changes will be reflected here, and continued use of Ligabot.id implies acceptance of the updated policy.
+
+7. Contact
+If you have any questions or concerns about this policy, feel free to contact me.
