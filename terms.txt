@@ -1,0 +1,26 @@
+Terms and Conditions for [Bot Name]
+Last Updated: [Date]
+
+1. Introduction
+Welcome to [Bot Name]! This bot is designed for personal use only and is not intended for public distribution. By using this bot, you agree to comply with these terms.
+
+2. Personal Use Only
+[Bot Name] is strictly for personal use. You may not share, sell, or distribute access to this bot without permission.
+
+3. Data Collection
+This bot does not collect, store, or share any personal data. Any messages or interactions with the bot are processed in real time and not saved.
+
+4. Acceptable Use
+You agree not to use [Bot Name] for any unlawful, harmful, or malicious activities, including but not limited to:
+
+Spamming or harassing other users.
+Using the bot for automated actions that violate Discord’s Terms of Service.
+Attempting to modify, reverse-engineer, or exploit the bot.
+5. No Guarantees or Liability
+This bot is provided "as is" with no guarantees of uptime, accuracy, or functionality. I am not responsible for any issues, losses, or damages that arise from using this bot.
+
+6. Changes to Terms
+I may update these terms at any time. Continued use of the bot means you accept any changes.
+
+7. Contact
+For any questions or concerns, please contact me directly.
